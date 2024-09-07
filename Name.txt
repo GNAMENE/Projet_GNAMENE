@@ -1,1 +1,3 @@
 first commit
+git config --global user.name "<First_name> <Last_name>"
+git config --global user.email "<user_email_address>"
